@@ -42,3 +42,10 @@ I will continue to have various experiences and acquire skills to achieve my dre
   
 </div>
 
+# Contact 💬
+<div align="center">
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-f7e600?style=flat-square&logo=Tistory&link=https://2days.tistory.com/)](https://2days.tistory.com/)
+[![Gmail Badge](http://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:235jumin@gmail.com)](mailto:235jumin@gmail.com)
+
+</div>
