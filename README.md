@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=JISU-JEONG)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=JISU-JEONG&fontColor=ffffff&fontSize=40)
 
 
