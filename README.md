@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...CAE9D5
 - ⚡ Fun fact: ...CAE900
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=CAE9D5&text=Jeong-Jisu&fontColor=ffffff&height=300)
+![header](https://capsule-render.vercel.app/api?type=waving&color=CAE900&text=Jeong-Jisu&fontColor=ffffff&height=300)
 
 # Who am I?💖
 Hello, My name is Jeong Jisu.
